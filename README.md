@@ -11,6 +11,7 @@ This repository contains a Mail Box application built for managing emails effici
 ## Technologies Used
 
 - Frontend: React
+- State Management: Context-Api
 - Styling: Tailwind-CSS
 
 ## Installation
